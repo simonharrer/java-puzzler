@@ -2,5 +2,7 @@
 build/
 .classpath
 .project
+.idea/
 bin/
 .gradle/
+*.iml
